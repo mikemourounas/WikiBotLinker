@@ -1,0 +1,7 @@
+redis
+praw
+requests
+parse
+
+
+
